@@ -1,3 +1,5 @@
+[![William's GitHub stats](https://github-readme-stats.vercel.app/api?username=william-tfrd)](https://github.com/william-tfrd/github-readme-stats)
+
 **I'm a Night 🦉** 
 
 ```text

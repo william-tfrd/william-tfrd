@@ -1,16 +1,27 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**william-tfrd/william-tfrd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
+building systems that think
+```
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+***
+
+```python
+interests = [
+    "automated investing",
+    "intelligence systems",
+    "OSINT & geospatial",
+    "algo trading",
+    "the world, broadly",
+]
+```
+
+***
+
+<div align="center">
+
+*founder · builder · curious about everything*
+
+</div>
